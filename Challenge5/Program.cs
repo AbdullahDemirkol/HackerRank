@@ -1,14 +1,26 @@
 ﻿
 //https://www.hackerrank.com/challenges/30-conditional-statements/problem challenge
 
+
 int n = Convert.ToInt32(Console.ReadLine().Trim());
-if (n % 2 == 0)
+if (n <= 100 && n >= 0)
 {
-    Console.WriteLine("Not Weird");
-}
-else
-{
-    Console.WriteLine("Weird");
+    if (n % 2 == 1)
+    {
+        Console.WriteLine("Weird");
+    }
+    else if (n >= 2 && n <= 5)
+    {
+        Console.WriteLine("Not Weird");
+    }
+    else if (n >= 6 && n <= 20)
+    {
+        Console.WriteLine("Weird");
+    }
+    else if (n > 20)
+    {
+        Console.WriteLine("Not Weird");
+    }
 }
 Console.ReadLine();
 
