@@ -1,0 +1,14 @@
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\bin\Debug\net7.0\Challenge20.exe
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\bin\Debug\net7.0\Challenge20.deps.json
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\bin\Debug\net7.0\Challenge20.runtimeconfig.json
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\bin\Debug\net7.0\Challenge20.dll
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\bin\Debug\net7.0\Challenge20.pdb
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\Challenge20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\Challenge20.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\Challenge20.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\Challenge20.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\Challenge20.dll
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\refint\Challenge20.dll
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\Challenge20.pdb
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\Challenge20.genruntimeconfig.cache
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Challenge20\obj\Debug\net7.0\ref\Challenge20.dll
