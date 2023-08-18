@@ -7,31 +7,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge1", "Challenge1\Ch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge2", "Challenge2\Challenge2.csproj", "{65F0D123-375E-42F4-8CCB-3EFE4F3549C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge3", "Challenge3\Challenge3.csproj", "{0AD1F24A-AB0E-4A32-84F8-6C83EBB8E20B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge3", "Challenge3\Challenge3.csproj", "{0AD1F24A-AB0E-4A32-84F8-6C83EBB8E20B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge4", "Challenge4\Challenge4.csproj", "{4522AC2D-AE09-4D9B-AB2E-142239A0D99A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge4", "Challenge4\Challenge4.csproj", "{4522AC2D-AE09-4D9B-AB2E-142239A0D99A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge5", "Challenge5\Challenge5.csproj", "{06923688-E688-4055-9717-3F1D57AA49F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge5", "Challenge5\Challenge5.csproj", "{06923688-E688-4055-9717-3F1D57AA49F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge6", "Challenge6\Challenge6.csproj", "{F1C74B71-3D18-42BA-A39D-2BCCDBE6D1E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge6", "Challenge6\Challenge6.csproj", "{F1C74B71-3D18-42BA-A39D-2BCCDBE6D1E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge7", "Challenge7\Challenge7.csproj", "{A93EC7AF-3225-4C6B-9E83-077B0D7540DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge7", "Challenge7\Challenge7.csproj", "{A93EC7AF-3225-4C6B-9E83-077B0D7540DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge8", "Challenge8\Challenge8.csproj", "{A0E0D788-8522-4636-ACFB-5265C700D502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge8", "Challenge8\Challenge8.csproj", "{A0E0D788-8522-4636-ACFB-5265C700D502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge9", "Challenge9\Challenge9.csproj", "{92E75C1B-C619-4535-B5E4-833476CC86B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge9", "Challenge9\Challenge9.csproj", "{92E75C1B-C619-4535-B5E4-833476CC86B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge10", "Challenge10\Challenge10.csproj", "{7C687A69-C0AA-4EA3-8901-8554BC56558D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge10", "Challenge10\Challenge10.csproj", "{7C687A69-C0AA-4EA3-8901-8554BC56558D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge11", "Challenge11\Challenge11.csproj", "{704BA060-4D95-4AD5-9BA0-0E0F217BB7EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge11", "Challenge11\Challenge11.csproj", "{704BA060-4D95-4AD5-9BA0-0E0F217BB7EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge12", "Challenge12\Challenge12.csproj", "{B8B91F6D-7925-40BD-8AD5-7340D86439AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge12", "Challenge12\Challenge12.csproj", "{B8B91F6D-7925-40BD-8AD5-7340D86439AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge13", "Challenge13\Challenge13.csproj", "{5AEA3EBA-9D4C-4AF3-A91C-6A1BD2D7197D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge13", "Challenge13\Challenge13.csproj", "{5AEA3EBA-9D4C-4AF3-A91C-6A1BD2D7197D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge14", "Challenge14\Challenge14.csproj", "{9347280F-CFEE-415B-98AB-47FFCFC9E379}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge14", "Challenge14\Challenge14.csproj", "{9347280F-CFEE-415B-98AB-47FFCFC9E379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge15", "Challenge15\Challenge15.csproj", "{E2FB6B42-2790-42DA-A725-3ABE3BD9F41F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge15", "Challenge15\Challenge15.csproj", "{E2FB6B42-2790-42DA-A725-3ABE3BD9F41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge16", "Challenge16\Challenge16.csproj", "{52E3B884-BC19-41F3-82E4-2FFD7499E1BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{E2FB6B42-2790-42DA-A725-3ABE3BD9F41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2FB6B42-2790-42DA-A725-3ABE3BD9F41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2FB6B42-2790-42DA-A725-3ABE3BD9F41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E3B884-BC19-41F3-82E4-2FFD7499E1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E3B884-BC19-41F3-82E4-2FFD7499E1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E3B884-BC19-41F3-82E4-2FFD7499E1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E3B884-BC19-41F3-82E4-2FFD7499E1BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
