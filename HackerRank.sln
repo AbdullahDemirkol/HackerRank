@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar-Soru-2", "Kol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-3", "Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3.csproj", "{2BEA0CFB-36D7-45D3-9511-9A5708727F5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge23", "Challenge23\Challenge23.csproj", "{27E9A548-1F18-4A84-B3B3-7B22F21D5072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{2BEA0CFB-36D7-45D3-9511-9A5708727F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BEA0CFB-36D7-45D3-9511-9A5708727F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BEA0CFB-36D7-45D3-9511-9A5708727F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E9A548-1F18-4A84-B3B3-7B22F21D5072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E9A548-1F18-4A84-B3B3-7B22F21D5072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E9A548-1F18-4A84-B3B3-7B22F21D5072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E9A548-1F18-4A84-B3B3-7B22F21D5072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
