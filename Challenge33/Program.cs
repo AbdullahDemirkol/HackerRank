@@ -5,8 +5,6 @@
 //https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true challenge
 
 
-using System.IO;
-
 int year = Convert.ToInt32(Console.ReadLine().Trim());
 
 string result = Result.DayOfProgrammer(year);

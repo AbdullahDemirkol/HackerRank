@@ -67,27 +67,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge28", "Challenge28\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge29", "Challenge29\Challenge29.csproj", "{02001D96-4B75-49BA-BD60-40AA1541C211}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge30", "Challenge30\Challenge30.csproj", "{4803D2BE-02E7-481E-A403-B27B70B48AB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge30", "Challenge30\Challenge30.csproj", "{4803D2BE-02E7-481E-A403-B27B70B48AB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge31", "Challenge31\Challenge31.csproj", "{2393F3AD-F5E0-40A1-A74C-B502F92F818E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge31", "Challenge31\Challenge31.csproj", "{2393F3AD-F5E0-40A1-A74C-B502F92F818E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge32", "Challenge32\Challenge32.csproj", "{A72A6B11-9A6F-49AA-AF09-9EC97C26395E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge32", "Challenge32\Challenge32.csproj", "{A72A6B11-9A6F-49AA-AF09-9EC97C26395E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge33", "Challenge33\Challenge33.csproj", "{4D299A67-82F2-45DB-9B5B-39456AA399CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge33", "Challenge33\Challenge33.csproj", "{4D299A67-82F2-45DB-9B5B-39456AA399CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge34", "Challenge34\Challenge34.csproj", "{7CA03527-A1DA-4609-B0E9-4B8E78D46D42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge34", "Challenge34\Challenge34.csproj", "{7CA03527-A1DA-4609-B0E9-4B8E78D46D42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge35", "Challenge35\Challenge35.csproj", "{332E2C43-A76D-4103-9300-CB211E8248ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge35", "Challenge35\Challenge35.csproj", "{332E2C43-A76D-4103-9300-CB211E8248ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge36", "Challenge36\Challenge36.csproj", "{DD4278E0-7126-4B3C-BC65-EDFE19D3E3F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge36", "Challenge36\Challenge36.csproj", "{DD4278E0-7126-4B3C-BC65-EDFE19D3E3F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge37", "Challenge37\Challenge37.csproj", "{2AFCF56E-9016-4255-B9F6-599DCB90D667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge37", "Challenge37\Challenge37.csproj", "{2AFCF56E-9016-4255-B9F6-599DCB90D667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge38", "Challenge38\Challenge38.csproj", "{0E545179-82D3-4310-AFE2-9C24A1380A2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge38", "Challenge38\Challenge38.csproj", "{0E545179-82D3-4310-AFE2-9C24A1380A2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge39", "Challenge39\Challenge39.csproj", "{2E6EE39E-4873-4000-96B3-52036A023936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge39", "Challenge39\Challenge39.csproj", "{2E6EE39E-4873-4000-96B3-52036A023936}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge40", "Challenge40\Challenge40.csproj", "{7860B9BF-F7D5-4154-B50F-D78C6EA61FEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge40", "Challenge40\Challenge40.csproj", "{7860B9BF-F7D5-4154-B50F-D78C6EA61FEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge41", "Challenge41\Challenge41.csproj", "{7881B870-1006-4CA1-95AD-52E8936D93CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge42", "Challenge42\Challenge42.csproj", "{EC32AECA-A505-40B7-9210-3C8707678125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +271,14 @@ Global
 		{7860B9BF-F7D5-4154-B50F-D78C6EA61FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7860B9BF-F7D5-4154-B50F-D78C6EA61FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7860B9BF-F7D5-4154-B50F-D78C6EA61FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7881B870-1006-4CA1-95AD-52E8936D93CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7881B870-1006-4CA1-95AD-52E8936D93CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7881B870-1006-4CA1-95AD-52E8936D93CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7881B870-1006-4CA1-95AD-52E8936D93CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC32AECA-A505-40B7-9210-3C8707678125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC32AECA-A505-40B7-9210-3C8707678125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC32AECA-A505-40B7-9210-3C8707678125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC32AECA-A505-40B7-9210-3C8707678125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
