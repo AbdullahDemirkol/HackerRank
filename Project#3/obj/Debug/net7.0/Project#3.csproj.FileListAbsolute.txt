@@ -1,0 +1,14 @@
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\bin\Debug\net7.0\Project#3.exe
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\bin\Debug\net7.0\Project#3.deps.json
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\bin\Debug\net7.0\Project#3.runtimeconfig.json
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\bin\Debug\net7.0\Project#3.dll
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\bin\Debug\net7.0\Project#3.pdb
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\Project#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\Project#3.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\Project#3.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\Project#3.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\Project#3.dll
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\refint\Project#3.dll
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\Project#3.pdb
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\Project#3.genruntimeconfig.cache
+C:\Users\Abdullah\Desktop\Yeni klasör (4)\HackerRank\Project#3\obj\Debug\net7.0\ref\Project#3.dll
