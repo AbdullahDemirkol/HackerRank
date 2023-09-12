@@ -135,27 +135,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project#4", "Project#4\Proj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project#5", "Project#5\Project#5.csproj", "{F95042F3-0EFE-4D1E-A6B7-DDBA2BCDC6B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge59", "Challenge59\Challenge59.csproj", "{ACBB60C2-732A-42B6-A59B-18599343C681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge59", "Challenge59\Challenge59.csproj", "{ACBB60C2-732A-42B6-A59B-18599343C681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge60", "Challenge60\Challenge60.csproj", "{30035AC4-A1F7-4734-9CC3-827C25EDD939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge60", "Challenge60\Challenge60.csproj", "{30035AC4-A1F7-4734-9CC3-827C25EDD939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge61", "Challenge61\Challenge61.csproj", "{BC93D4B9-F70B-414A-8B6C-C0E7441BDC77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge61", "Challenge61\Challenge61.csproj", "{BC93D4B9-F70B-414A-8B6C-C0E7441BDC77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge62", "Challenge62\Challenge62.csproj", "{872AF863-B9D3-4197-9DFE-9C62E986757B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge62", "Challenge62\Challenge62.csproj", "{872AF863-B9D3-4197-9DFE-9C62E986757B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge63", "Challenge63\Challenge63.csproj", "{E47A8140-F77A-4C5C-9170-D2D7F1199FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge63", "Challenge63\Challenge63.csproj", "{E47A8140-F77A-4C5C-9170-D2D7F1199FF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge64", "Challenge64\Challenge64.csproj", "{4C11DF81-68DB-4D82-8A20-D5785D3105F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge64", "Challenge64\Challenge64.csproj", "{4C11DF81-68DB-4D82-8A20-D5785D3105F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge65", "Challenge65\Challenge65.csproj", "{6253A593-5871-403A-813E-9592A8F02ADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge65", "Challenge65\Challenge65.csproj", "{6253A593-5871-403A-813E-9592A8F02ADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge66", "Challenge66\Challenge66.csproj", "{04BDA60C-9749-45F6-B05A-132FB5AA07E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge66", "Challenge66\Challenge66.csproj", "{04BDA60C-9749-45F6-B05A-132FB5AA07E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge67", "Challenge67\Challenge67.csproj", "{4450A5A6-F889-43A1-B53F-FE83624F5A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge67", "Challenge67\Challenge67.csproj", "{4450A5A6-F889-43A1-B53F-FE83624F5A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge68", "Challenge68\Challenge68.csproj", "{D3D9D2D6-CE52-4B91-B2A0-802BC9798B07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge68", "Challenge68\Challenge68.csproj", "{D3D9D2D6-CE52-4B91-B2A0-802BC9798B07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge69", "Challenge69\Challenge69.csproj", "{4C9F185A-3207-4EF1-9504-875672E698AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge69", "Challenge69\Challenge69.csproj", "{4C9F185A-3207-4EF1-9504-875672E698AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project#6", "Project#6\Project#6.csproj", "{B0650941-204F-450C-AECB-43C6C2FECE00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,6 +473,10 @@ Global
 		{4C9F185A-3207-4EF1-9504-875672E698AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C9F185A-3207-4EF1-9504-875672E698AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C9F185A-3207-4EF1-9504-875672E698AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0650941-204F-450C-AECB-43C6C2FECE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0650941-204F-450C-AECB-43C6C2FECE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0650941-204F-450C-AECB-43C6C2FECE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0650941-204F-450C-AECB-43C6C2FECE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
