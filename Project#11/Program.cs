@@ -1,5 +1,7 @@
 ﻿
 
+//https://academy.patika.dev/tr/courses/c-projeleri/voting-uygulamasi
+
 using Project_11.Business.Abstract;
 using Project_11.Business.Concrete;
 using Project_11.DataAccess.InMemory.Concrete;
