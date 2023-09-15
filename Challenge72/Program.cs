@@ -3,9 +3,13 @@
 //https://www.hackerrank.com/challenges/30-regex-patterns/problem?isFullScreen=true challenge
 
 
+using System.Text.RegularExpressions;
+
 int N = Convert.ToInt32(Console.ReadLine().Trim());
 
-List<string> firstNames = new List<string>();
+Regex regex = new Regex("[a-z]+@gmail\\.com");
+
+List<string> names = new List<string>();
 
 for (int NItr = 0; NItr < N; NItr++)
 {
@@ -15,13 +19,12 @@ for (int NItr = 0; NItr < N; NItr++)
 
     string emailID = firstMultipleInput[1];
 
-    var isGmail = emailID.Split("@")[1];
-    if (isGmail=="gmail.com")
+    if (regex.IsMatch(emailID))
     {
-        firstNames.Add(firstName);
+        names.Add(firstName);
     }
 }
-foreach (var firstName in firstNames.OrderBy(p=>p))
+foreach (var firstName in names.OrderBy(p=>p))
 {
     Console.WriteLine(firstName);
 }
