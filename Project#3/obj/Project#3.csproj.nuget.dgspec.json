@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Project#3\\Project#3.csproj": {}
+    "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Project#3\\Project#3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Project#3\\Project#3.csproj": {
+    "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Project#3\\Project#3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Project#3\\Project#3.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Project#3\\Project#3.csproj",
         "projectName": "Project#3",
-        "projectPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Project#3\\Project#3.csproj",
+        "projectPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Project#3\\Project#3.csproj",
         "packagesPath": "C:\\Users\\Abdullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Project#3\\obj\\",
+        "outputPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Project#3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

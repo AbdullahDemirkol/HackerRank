@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TY+W37kg72PKAeYi7mXNL/I+iKNjxsjcl03TYn+v7C4rpRQShCw8K7Erw0bQunNPDFL35sC/4VXROFKowycV/Q==",
+  "dgSpecHash": "MPj9orFzu8Z73vTMW1oJDCvMUzscsIYC/WhBrPq2KJBRmbcx2kIyFEecWQy3Nks3pYDbgJCTKwBYa0fBuO2tzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Project#13\\Project#13.csproj",
+  "projectFilePath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Project#13\\Project#13.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\Abdullah\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",

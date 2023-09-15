@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Challenge68\\Challenge68.csproj": {}
+    "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Challenge68\\Challenge68.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Challenge68\\Challenge68.csproj": {
+    "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Challenge68\\Challenge68.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Challenge68\\Challenge68.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Challenge68\\Challenge68.csproj",
         "projectName": "Challenge68",
-        "projectPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Challenge68\\Challenge68.csproj",
+        "projectPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Challenge68\\Challenge68.csproj",
         "packagesPath": "C:\\Users\\Abdullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Challenge68\\obj\\",
+        "outputPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Challenge68\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

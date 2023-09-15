@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Challenge21\\Challenge21.csproj",
+      "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Challenge21\\Challenge21.csproj",
       "projectName": "Challenge21",
-      "projectPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Challenge21\\Challenge21.csproj",
+      "projectPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Challenge21\\Challenge21.csproj",
       "packagesPath": "C:\\Users\\Abdullah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (4)\\HackerRank\\Challenge21\\obj\\",
+      "outputPath": "C:\\Users\\Abdullah\\Desktop\\Yeni klasör (3)\\HackerRank\\Challenge21\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
